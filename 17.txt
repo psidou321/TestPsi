@@ -1,0 +1,14 @@
+FirstName   LastName      City      
+----------  ------------  ----------
+František  Wichterlová  Prague    
+Helena      Holý         Prague    
+Eduardo     Martins       São Paulo
+Alexandre   Rocha         São Paulo
+Frank       Harris        Mountain V
+Dan         Miller        Mountain V
+Hannah      Schneider     Berlin    
+Niklas      Schröder     Berlin    
+Camille     Bernard       Paris     
+Dominique   Lefebvre      Paris     
+Emma        Jones         London    
+Phil        Hughes        London    
