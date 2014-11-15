@@ -1,0 +1,1 @@
+SELECT Country, COUNT(*) FROM Customer GROUP BY Country ORDER BY COUNT(*) DESC LIMIT 5;

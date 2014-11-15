@@ -1,0 +1,1 @@
+INSERT INTO Customer (FirstName, LastName, Company, Address, City, Country, PostalCode, Email) VALUES ('Ayme', 'Saito', 'BGF', 'Buzogány utca 10-12', 'Budapest', 'Hungary', '1149', 'aymesaito@gmail.com');

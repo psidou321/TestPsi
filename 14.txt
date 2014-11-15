@@ -1,0 +1,7 @@
+Country     COUNT(*)  
+----------  ----------
+USA         13        
+Canada      8         
+Brazil      5         
+France      5         
+Germany     4         
