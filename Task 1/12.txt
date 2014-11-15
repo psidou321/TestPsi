@@ -1,5 +1,0 @@
-FirstName   LastName    FirstName   LastName  
-----------  ----------  ----------  ----------
-Luís       Gonçalves  Jane        Peacock   
-François   Tremblay    Jane        Peacock   
-Roberto     Almeida     Jane        Peacock   

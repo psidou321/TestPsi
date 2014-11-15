@@ -1,1 +1,0 @@
-SELECT t.Name, t.Milliseconds, m.Name FROM Mediatype m INNER JOIN Track t ON m.MediaTypeId = t.MediaTypeId INNER JOIN Invoiceline l ON t.TrackId = l.TrackId INNER JOIN Invoice i ON l.InvoiceId = i.InvoiceId WHERE i.BillingCountry ='Hungary';
