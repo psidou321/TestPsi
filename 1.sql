@@ -1,1 +1,0 @@
-SELECT Name from Genre WHERE GenreId BETWEEN 11 AND 20;
